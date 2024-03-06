@@ -1,7 +1,6 @@
-- Hello!!👋, I’m Joel Kimikya Riziki a Web Developer, 
-- I’m interested in HTML5, CSS3, Tailwind, JavaScript, React, TypeScript, Next JS, Canva, I believe with these tools will help to become a great Front-End developer,
-- I am currently learning 🌱 Node.Js to be able to work on the Back-End side as well and to become a Full-Stack Developer
-- I’m looking to collaborate on 💞️ some of the best Company or Team that will help me to level up my Skills
+- Hello!!👋, I’m Joel Kim Riziki a Web Developer, 
+- I’m interested in HTML5, CSS3, Tailwind, JavaScript, React, TypeScript, Next JS, Canva, Node JS, Nest JS, I believe with these tools will help me to become a great full-stack software engineer,
+- I’m looking to collaborate on 💞️ some of the best Companies or Team that will help me to level up my Skills
 - 📫 The best way get in touch with me can be through my Gmail account joelcena.47@gmail.com or here
 
 
