@@ -2,10 +2,9 @@ Hello there!!👋 I'm Joel Kim
 - I'm a passionated Front-End Web Developer and possess an impresive diversity of skills in tools like HTML5, CSS3, Tailwind, JavaScript, React, TypeScript, Next JS, Canva, Node JS and Nest JS. I love exploring new technologies and building innovative projects
   
 🌱 Currently learning Solidity and orient myself into web3.
-
 💼 Open to collaboration on exciting projects.
-
 📫 Reach out to me at joelcena.47@gmail.com or connect on my Linkedin https://www.linkedin.com/in/joel-cena/.
+
 Let's create something amazing together!
 
 <!---
